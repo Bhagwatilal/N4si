@@ -6,6 +6,10 @@
     <img src="https://komarev.com/ghpvc/?username=Bhagwatilal&label=Profile%20views&color=0e75b6&style=flat" alt="Bhagwatilal" />
   </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhagwatilal/Bhagwatilal/output/snake.svg" alt="Snake animation" />
+</p>
+
   <p align="center">
     <a href="https://holopin.io/@bhagwatilal">
       <img src="https://holopin.me/bhagwatilal" alt="Holopin Profile">
@@ -60,7 +64,5 @@
 
   [![Swap-Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagwatilal&theme=react-dark&hide_border=true&area=true)](https://github.com/Bhagwatilal/github-readme-activity-graph)
 
- <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Bhagwatilal/Bhagwatilal/output/snake.svg" alt="Snake animation" />
+ 
 </div>
