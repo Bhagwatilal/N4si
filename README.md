@@ -22,13 +22,14 @@
   - 🌱 I’m currently learning **Javascript and Node.js**
   - 👯 I’m looking to collaborate on **Web Development**
   - 📫 How to reach me: [bhagavtilaljoshi1@gmail.com](mailto:bhagavtilaljoshi1@gmail.com)
-  - ⚡ Fun fact: **Bhajan Addicted** - Currently listening to **Jaya Kishori**
+  - ⚡ Fun fact:I always start learning from middle.
 
   <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/bhagwatilal-joshi/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
+<a href="https://linkedin.com/in/bhagwatilal-joshi-863b14264/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
 </p>
 
   <h3 align="center">Languages and Tools:</h3>
@@ -55,7 +56,11 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagwatilal&" alt="Bhagwatilal" />
   </p>
 
+  
+
   [![Swap-Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagwatilal&theme=react-dark&hide_border=true&area=true)](https://github.com/Bhagwatilal/github-readme-activity-graph)
 
- 
+ <br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
