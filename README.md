@@ -7,7 +7,7 @@
   </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bhagwatilal/Bhagwatilal/output/snake.svg" alt="Snake animation" /
+  <img src="https://raw.githubusercontent.com/Bhagwatilal/Bhagwatilal/output/snake.svg" alt="Snake animation" />
 </p>
 
   <p align="center">
