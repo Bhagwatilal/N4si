@@ -53,7 +53,7 @@
   </p>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhagwatilal&show_icons=true&locale=en" alt="Bhagwatilal" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhagwatilal&show_icons=true&locale=en" alt="Bhagwatilal" /
   </p>
 
   <p align="center">
