@@ -3,7 +3,7 @@
 <div align="center">
 
   <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Bhagwatilal&label=Profile%20views&color=0e75b6&style=flat" alt="Bhagwatilal" />
+    <img src="https://komarev.com/ghpvc/?username=Bhagwatilal&label=Profile%20views&color=0e75b6&style=flat" alt="Bhagwatilal" /
   </p>
 
 <p align="center">
